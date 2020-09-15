@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+![imagem de Kevin](https://avatars2.githubusercontent.com/u/42079591?s=460&u=9a68d84a4d44bfd368721007fd9e84d885cc7403&v=4)
+## Bem vindo a página pessoal de Kevin Rafael
+Kevin nasceu em Ijuí-RS tem 22 anos e mora em Florianópolis desde dezembro de 2016
 
-You can use the [editor on GitHub](https://github.com/kevinrvb16/ine5646-pagina-pessoal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Histórico Profissional
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Atualmente trabalha na empresa de tecnologia Doutor-IE a 3 anos no setor comercial, vendendo assinaturas de acesso a informação técnica automotiva e alguns treinamentos a distância
 
-### Markdown
+### Histórico Estudantil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Estudou no IFSC-Joinville onde fez curso técnico integrado com ensino médio em eletroeletrônica e se formou em dezembro de 2016.
 
-```markdown
-Syntax highlighted code block
+Ingressou na UFSC em março de 2017, cursando licenciatura em Educação Física até o o final do ano de 2019.
 
-# Header 1
-## Header 2
-### Header 3
+No decorrer do curso percebeu que na verdade não é o curso que pretendia levar a diante na vida profissional e decidiu mudar de curso por isso iniciou estudo no Rocks cursinho pré-vestibular onde fez um semi-extensivo.
 
-- Bulleted
-- List
+Em Março de 2020 ingressou em Sistemas de Informação
 
-1. Numbered
-2. List
+#### HOBBIES
+- Dançar
+- Programar
+- Ouvir Música
 
-**Bold** and _Italic_ and `Code` text
+#### **CURIOSIDADES**
+1. Virginiano
+2. Rato de academia
 
-[Link](url) and ![Image](src)
-```
+ _encontre nas redes sociais:_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[**Instagram**](https://www.instagram.com/kevin_rafael/)
 
-### Jekyll Themes
+[**Facebook**](https://www.facebook.com/kevinrafaelvelezbernal/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinrvb16/ine5646-pagina-pessoal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Twitter](https://www.instagram.com/kevin_rafael/)
+------------------------------------------------------------
